@@ -1,0 +1,1 @@
+{"front":"What's the capital city of the US?","back":"Washington DC","type":"basic"};{"text":"The author of \"The Adventures of Tom Sawyer\" is Mark Twain.","cloze":"Mark Twain","type":"cloze"};{"front":"Who is the author of \"Of Mice and Men\"?","back":"John Steinbeck","type":"basic"};
