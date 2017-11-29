@@ -1,1 +1,1 @@
-# Flashcard-Generator
+This program is a backend for a basic flashcard application. It constitutes an API that allows users to create two types of flashcards: basic and cloze. Technologies used: node js, JavaScript constructors. 
